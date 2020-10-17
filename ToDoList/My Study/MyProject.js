@@ -58,7 +58,7 @@ const MyProject = () => {
                   style={{
                     position: 'absolute',
                     right: 2,
-                    top: -4,
+                    top: -5,
                     backgroundColor: '#eceff1',
                     borderRadius: 20,
                     height: Dimensions.get('window').height * 0.02,
