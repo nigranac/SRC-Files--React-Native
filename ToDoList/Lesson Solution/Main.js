@@ -49,7 +49,7 @@ const Main = () => {
             <KeyboardAvoidingView style={main.container}>
 
                 <View style={main.banner}>
-                    <Text style={main.todoText}>TODO</Text>
+                    <Text style={main.todoText}>MYTODO</Text>
                     <Text style={main.todoCount}>{list.filter(t => t.isDone === false).length}</Text>
                 </View>
 
